@@ -8,10 +8,10 @@ The Social Network API is a backend application that provides an API for a socia
 
 This project focuses on building the API for a social network platform. The app allows users to:
 
-Create, update, and delete users.
-Post thoughts and reactions.
-Add or remove friends.
-Store user information in a MongoDB database.
+- Create, update, and delete users.
+- Post thoughts and reactions.
+- Add or remove friends.
+- Store user information in a MongoDB database.
 
 ## Walkthough:
 https://drive.google.com/file/d/1uTLCqO1-dqygvbnAgW2_80RZG-CAu-41/view?usp=sharing
@@ -152,10 +152,10 @@ This project is licensed under the MIT license.
 
 ## Technologies Used
 
-Express.js - A web application framework for Node.js Express.js on GitHub
-MongoDB - NoSQL database used for storing unstructured data MongoDB
-Mongoose - An Object Data Modeling (ODM) library for MongoDB and Node.js Mongoose on GitHub
-Node.js - JavaScript runtime built on Chrome's V8 JavaScript engine Node.js
+- Express.js - A web application framework for Node.js Express.js on GitHub
+- MongoDB - NoSQL database used for storing unstructured data MongoDB
+- Mongoose - An Object Data Modeling (ODM) library for MongoDB and Node.js Mongoose on GitHub
+- Node.js - JavaScript runtime built on Chrome's V8 JavaScript engine Node.js
 
 ## Testing
 
